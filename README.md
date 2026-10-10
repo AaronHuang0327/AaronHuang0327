@@ -2,6 +2,7 @@
 
 Plastic surgeon (reconstructive & aesthetic) and Assistant Professor at **Chang Gung Memorial Hospital, Linkou (Taiwan)**. I operate, I do research, and I build software for clinicians.
 
+[![Academic site](https://img.shields.io/badge/Academic%20site-aaronhuang0327.github.io-E8915B)](https://aaronhuang0327.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3074--6570-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3074-6570)
 [![Website](https://img.shields.io/badge/Web-drhuangvein.com-14395A)](https://drhuangvein.com)
 
@@ -28,7 +29,7 @@ No patient data is ever stored here.
 - **Huang RW**, et al. Comparing innervated and noninnervated glabrous skin flaps for volar digital defects: insights from patient-reported outcomes. *Plast Reconstr Surg.* 2024. [doi:10.1097/PRS.0000000000011829](https://doi.org/10.1097/PRS.0000000000011829)
 - **Huang RW**, et al. Reliability of postoperative free flap monitoring with a novel prediction model based on supervised machine learning. *Plast Reconstr Surg.* 2023. [doi:10.1097/PRS.0000000000010307](https://doi.org/10.1097/PRS.0000000000010307)
 
-Full list on [ORCID](https://orcid.org/0000-0002-3074-6570).
+Full list on my [academic site](https://aaronhuang0327.github.io/#publications) and [ORCID](https://orcid.org/0000-0002-3074-6570).
 
 ### 🤝 Collaboration
 Open to collaborations in surgical AI, digital health, and reconstructive outcomes research. Reach me through ORCID or my website.
