@@ -1,15 +1,14 @@
 ## Hi, I'm Aaron Huang 黃仁穩 👋
 
-Plastic & reconstructive surgeon and Assistant Professor at **Chang Gung Memorial Hospital, Linkou (Taiwan)**. I operate, I do research, and I build software for clinicians.
+Plastic surgeon (reconstructive & aesthetic) and Assistant Professor at **Chang Gung Memorial Hospital, Linkou (Taiwan)**. I operate, I do research, and I build software for clinicians.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3074--6570-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3074-6570)
 [![Website](https://img.shields.io/badge/Web-drhuangvein.com-14395A)](https://drhuangvein.com)
 
 ### 🩺 Clinical focus
-- Reconstructive microsurgery and limb salvage
-- Hand surgery
-- Vascularized composite allotransplantation (hand & face transplantation)
-- Venous and vascular procedures
+- **Reconstructive**: microsurgery and limb salvage, hand surgery, vascularized composite allotransplantation (hand & face transplantation)
+- **Aesthetic**: facial plastic surgery, abdominoplasty
+- **Venous**: varicose veins and other venous / vascular procedures
 
 ### 🔬 Research
 - **AI & machine learning in reconstructive surgery**: free flap monitoring, outcome prediction
